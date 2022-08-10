@@ -1,0 +1,154 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.Main_Parent {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  background-color: #f0f2f5;
+  height: 100vh;
+  align-items: center;
+}
+.fb_form {
+  border: 1px solid #ccd0d5;
+  border-radius: 7px;
+  padding: 15px;
+  background-color: white;
+}
+.header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: sans-serif;
+  border-bottom: 1px solid #ccd0d5;
+  margin-bottom: 20px;
+}
+.head {
+  font-size: 27px;
+  color: #1c1e21;
+}
+.paragraph {
+  line-height: 32px;
+  color: #606770;
+  margin-bottom: 6px;
+}
+.input {
+  height: 39px;
+  width: 182px;
+  padding-left: 12px;
+  display: inline;
+  font-size: 15px;
+}
+.input1 {
+  margin-right: 10px;
+  border: 1px solid #ccd0d5;
+  border-radius: 7px;
+}
+.input2 {
+  border: 1px solid #ccd0d5;
+  border-radius: 7px;
+}
+.input3 {
+  margin-left: 11px;
+  width: 395px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  border: 1px solid #ccd0d5;
+  border-radius: 7px;
+}
+.input4 {
+  margin-left: 11px;
+  width: 395px;
+  border: 1px solid #ccd0d5;
+  border-radius: 7px;
+}
+.mid1 {
+  color: #606770;
+  margin-left: 12px;
+  margin-top: 16px;
+  margin-bottom: 10px;
+  font-weight: normal;
+  font-size: 14px;
+}
+.logo {
+  text-align: center;
+}
+
+.select {
+  color: #1c1e21;
+
+  border-color: #ccd0d5;
+  border-radius: 4px;
+  padding: 8px;
+  padding-right: 63px;
+  margin-left: 11px;
+  font-size: 14px;
+  font-weight: normal;
+  border: 1px solid #ccd0d5;
+}
+.label {
+  font-size: 14px;
+  color: #1c1e21;
+  font-weight: normal;
+  padding-right: 53px;
+}
+.sel {
+  display: flex;
+  justify-content: space-evenly;
+  color: #1c1e21;
+
+  border-color: #ccd0d5;
+  border-radius: 4px;
+  padding: 8px;
+  padding-right: 63px;
+  margin-left: 11px;
+  font-size: 14px;
+  font-weight: normal;
+  border: 0px solid #ccd0d5;
+}
+
+.sc {
+  margin-left: -32px;
+}
+.text {
+  color: #606770;
+  font-size: 12px;
+  margin-top: 19px;
+  margin-left: 11px;
+}
+.text1 {
+  line-height: 17px;
+  margin-bottom: 13px;
+}
+.text2 {
+  line-height: 17px;
+  margin-bottom: 30px;
+}
+.btn {
+  margin-top: 18px;
+  text-align: center;
+}
+button {
+  width: 195px;
+  height: 38px;
+  margin-bottom: 15px;
+  width: 195px;
+  height: 38px;
+  margin-bottom: 20px;
+  color: white;
+  background-color: #00a400;
+  border: 1px solid #00a400;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 8px;
+  cursor: pointer;
+}
+.para {
+  text-align: center;
+  color: #1877f2;
+  font-size: 19px;
+  cursor: pointer;
+}
